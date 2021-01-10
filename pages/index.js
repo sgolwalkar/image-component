@@ -11,7 +11,7 @@ const Index = () => (
     <div className={styles.card}>
       <h1>Image Component with Next.js</h1>
       <p>
-        This page demonstrates the usage of the{' '}
+        This page demonstrates the  of the{' '}
         <a href="https://nextjs.org/docs/api-reference/next/image">
           next/image
         </a>{' '}
